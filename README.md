@@ -17,7 +17,7 @@ But wait, there's more! In the Secret Writers' Club, you will have access to som
 
 - Readers can acquire **items** which are represented by :sparkles: emoji :sparkles:.
 - As they progress through a story, they can see their **inventory** of acquired items.
-- Certain actions, like following a **goto** or acquiring an **item**, can **require** one or more items. 
+- Certain actions, like following a **goto** or acquiring an **item**, can **require** one or more items in order to be performed. 
 - These requirements can have hints which guide the reader to be aware of the **items** they need.
 - Actions can also require entering secret **codes**. 
 
@@ -29,6 +29,7 @@ Sure! The best way to learn about FoxTales is to just play some. Here are some e
 - [Forest Adventure](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F2)
 - [Pirate Escape](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F24)
 - [MetaMask Support](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F25)
+- [Ethereum Quiz](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F4)
 
 ## How will I write interactive stories? 
 

@@ -2,3 +2,4 @@
 
 * [Guide](/)
 * [Studio](studio.md)
+* [Features](features.md)
