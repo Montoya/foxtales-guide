@@ -3,3 +3,4 @@
 * [Guide](/)
 * [Studio](studio.md)
 * [Features](features.md)
+* [Support](help.md)
