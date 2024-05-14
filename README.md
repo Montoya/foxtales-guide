@@ -28,7 +28,7 @@ Sure! The best way to learn about FoxTales is to just play some. Here are some e
 - [FoxTales Tutorial](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F1)
 - [Forest Adventure](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F2)
 - [Pirate Escape](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F24)
-- [MetaMask Support](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F25)
+- [MetaMask Security Tutorial](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F25)
 - [Ethereum Quiz](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F4)
 
 ## How will I write interactive stories? 
