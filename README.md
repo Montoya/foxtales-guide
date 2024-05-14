@@ -1,8 +1,8 @@
 # Secret Writers' Club
 
-This guide will help you start writing your own interactive stories. First, a ground rule: we do not talk about the Secret Writers' Club &mdash; it's a secret! Do not share or cast any URLs until the Secret Writers' Club is closed. Your discretion will be greatly appreciated. 
+This guide will help you start writing your own interactive stories. First, a ground rule: we do not talk about the Secret Writers' Club &mdash; it's a secret! Do not share or cast any URLs until the Secret Writers' Club is closed. Your discretion will be greatly appreciated. You are the first wave of writers invited to try out FoxTales, a brand-new interactive story builder. You will soon be creating and sharing your own interactive stories, like miniature text games, with your Farcaster followers!
 
-Now, let's start learning...
+Read on to learn all about it...
 
 ## What is an interactive story? 
 
