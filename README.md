@@ -1,6 +1,6 @@
-# Secret Writers' Club
+# FoxTales Guide
 
-This guide will help you start writing your own interactive stories. First, a ground rule: we do not talk about the Secret Writers' Club &mdash; it's a secret! Do not share or cast any URLs until the Secret Writers' Club is closed. Your discretion will be greatly appreciated. You are the first wave of writers invited to try out FoxTales, a brand-new interactive story builder. You will soon be creating and sharing your own interactive stories, like miniature text games, with your Farcaster followers!
+You are the first wave of writers invited to try out FoxTales, a brand-new interactive story builder. You will soon be creating and sharing your own interactive stories, like miniature text games, with your Farcaster followers!
 
 Read on to learn all about it...
 
@@ -23,7 +23,7 @@ But wait, there's more! In the Secret Writers' Club, you will have access to som
 
 ## Can I try some?
 
-Sure! The best way to learn about FoxTales is to just play some. Here are some examples worth checking out. These will load in the Warpcast Frame Validator. Please do not cast or share them publicly!
+Sure! The best way to learn about FoxTales is to just play some. Here are some examples worth checking out. These will load in the Warpcast Frame Validator. 
 
 - [FoxTales Tutorial](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F1)
 - [Forest Adventure](https://warpcast.com/~/developers/frames?url=https%3A%2F%2Ffoxtales.vercel.app%2Fapi%2F2)
