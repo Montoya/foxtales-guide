@@ -6,9 +6,11 @@ After completing a FoxTale, you can view the Leaderboard. It shows the first 5 p
 
 ## Minting
 
-Each FoxTale can be minted. After winning, you can click to Mint with Warps right inside the Warpcast feed. If you have a Warps balance on Warpcast, you will be able to mint. The NFTs are minted on Base. [Here is an example FoxTale NFT image.](https://foxtales.vercel.app/api/img/2)
+Each FoxTale can be minted. After winning, you can click Mint to mint the tale for free. The NFTs are minted on Base to your connected Ethereum address (or your Farcaster address if you have not connected an address) and the gas is sponsored. [Here is an example FoxTale NFT image.](https://foxtales.vercel.app/api/img/2)
 
-In the future it will be possible to mint the NFTs on the web and on other chains, but for now, the only option that is supported is Mint with Warps. 
+In the future it may be possible to mint on other chains, but for now only Base is supported.
+
+_If the minting wallet runs out of ETH to cover gas, please let us know and we will top it up._
 
 ## MetaMask Snap
 
